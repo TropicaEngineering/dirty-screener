@@ -1,0 +1,3 @@
+1. Volume / Market cap. (Original format)
+https://dexscreener.com/?rankBy=volume&order=desc&chainIds=solana&minLiq=40000&minMarketCap=200000&maxMarketCap=10000000&min1HVol=750000
+
