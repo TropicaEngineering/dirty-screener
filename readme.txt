@@ -44,7 +44,7 @@ If not, download & install it from:
 ---------------------------------
 Run the following commands:
 
-    git clone https://github.com/YOUR_GITHUB_USERNAME/dirty-screener.git
+    git clone https://github.com/tropicaengineering/dirty-screener.git
     cd dirty-screener
 
 3. INSTALL DEPENDENCIES
