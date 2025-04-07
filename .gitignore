@@ -1,1 +1,24 @@
+# System files
+.DS_Store
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Generated data
+dexscreener_data.json
+
+# Node.js dependencies
 node_modules/
+
+# Environment variables (if you add sensitive data later)
+.env
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build output (if applicable later)
+dist/
+build/
