@@ -128,7 +128,7 @@ REAL-TIME FEATURES:
                  CREDIT & ATTRIBUTION
 ============================================================
 
-This project was created by Tropica Engineering - https://tropica.dev.  
+This project was created by Tropica Engineering.  
 If you find it useful, we appreciate a mention or link back to our work.
 
 ============================================================
